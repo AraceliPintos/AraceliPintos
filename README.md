@@ -45,8 +45,9 @@ Mi enfoque en los desafíos y en el aprendizaje constante me ha llevado a ser un
 Si tienes preguntas, te interesa saber más sobre mis proyectos o deseas colaborar conmigo, ¡no dudes en contactarme!
 
 
-- [Correo Electrónico](mailto:pintos.araceli@gmail.com) (Envíame un mail)
-- [WhatsApp](https://wa.me/541128845350) (Envíame un mensaje directo)
+- Envíame un mail aquí 👉 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pintos.araceli@gmail.com)
+
+- Envíame un mensaje directo aquí 👉 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/541128845350)
 
 Gracias por visitar mi perfil. ¡Espero que podamos conectar y explorar oportunidades juntos!
 
