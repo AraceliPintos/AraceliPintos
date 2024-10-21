@@ -2,7 +2,9 @@
 
 ## 🙋‍♀️ Sobre Mí
 
-Soy una programadora junior entusiasta y consultora funcional certificada en SAP Bussines One. Mi experiencia diversa en desarrollo de software me permite aportar soluciones efectivas y creativas en el ámbito empresarial.
+Soy Contadora Pública y una programadora junior entusiasta. 
+Consultora funcional certificada en SAP Bussines One. 
+Mi experiencia diversa en desarrollo de software me permite aportar soluciones efectivas y creativas en el ámbito empresarial.
 
 👩‍💻 **Lenguajes de Programación y Herramientas:**
 
